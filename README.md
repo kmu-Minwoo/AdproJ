@@ -1,5 +1,3 @@
-# SWP2_AD_Project
-국민대학교 소프트웨어학부 SW2 AD 프로젝트
-
-프로젝트 명 :Block Breaker 
-팀 명 : UTF-2조
+Blocker Breaker
+Python으로 제작한 벽돌 깨기 게임이다. 
+클래식, 타이머, 아케이드 모드를 선택하여 즐길 수 있도록 구현하였다.
